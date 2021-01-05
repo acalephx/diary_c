@@ -1,5 +1,11 @@
 # diary_c
 
+## vscode 打开文本 乱码
+
+File - Preference - Settings 
+
+files.autoGuessEncoding
+
 ## vscode terminal 乱码
 
 ```json
